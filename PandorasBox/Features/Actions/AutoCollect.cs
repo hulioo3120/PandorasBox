@@ -7,9 +7,9 @@ namespace PandorasBox.Features.Actions
 {
     public unsafe class AutoCollect : Feature
     {
-        public override string Name => "Auto-Collect";
+        public override string Name => "汉化测试Auto-Collect";
 
-        public override string Description => "When switching to FSH, ensures Collector's Glove will always be on.";
+        public override string Description => "汉化测试When switching to FSH, ensures Collector's Glove will always be on.";
 
         public override FeatureType FeatureType => FeatureType.Actions;
 
